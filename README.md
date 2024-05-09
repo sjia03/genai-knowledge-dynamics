@@ -1,7 +1,6 @@
 # stack-exchange
 
-Throughout history, humans have employed various methods to gather and dissem-
-inate knowledge. From oral traditions and written texts to libraries and the internet,
+Throughout history, humans have employed various methods to gather and disseminate knowledge. From oral traditions and written texts to libraries and the internet,
 the means of knowledge sharing have continually evolved. With the emergence of gen-
 erative AI like ChatGPT, how will our online knowledge ecosystems change? I analyze
 user engagement on Stack Exchange, a platform covering diverse domains, following
